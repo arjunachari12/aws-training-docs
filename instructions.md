@@ -6,3 +6,8 @@ https://905392101331.signin.aws.amazon.com/console
 
 Exercise 3: AWS cost
 https://905392101331.signin.aws.amazon.com/console
+
+Challenge 1: 
+Provision Windows Server, open RDP 3389, Provision VM and Connect to tghat VM. 
+
+
