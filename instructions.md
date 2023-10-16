@@ -17,4 +17,7 @@ Add additional tags
 Stop and Terminate instance
 Delete your VPC
 
+Install AWS CLi
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
+
 
