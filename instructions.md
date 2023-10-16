@@ -14,5 +14,7 @@ Challenge 2:
 Open Port 80 to your VM
 Add additional Volume
 Add additional tags
+Stop and Terminate instance
+Delete your VPC
 
 
