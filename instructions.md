@@ -27,6 +27,9 @@ S3 Bucket:
 - Delete the bucket
 
 - Provision s3 bucket using AWS CLI
-- Upload/download sample file 
+- Upload/download sample file
+
+Challenge: RDS
+Provision RDS database MySQL or Postgresql and Connect to the database using clinet
 
 
