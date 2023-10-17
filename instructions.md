@@ -30,6 +30,10 @@ S3 Bucket:
 - Upload/download sample file
 
 Challenge: RDS
-Provision RDS database MySQL or Postgresql and Connect to the database using clinet
+Provision RDS database MySQL or Postgresql and Connect to the database using 
+
+Challenge: Lambda
+https://aws.amazon.com/tutorials/run-serverless-code/
+https://docs.aws.amazon.com/lambda/latest/dg/with-s3-example.html
 
 
